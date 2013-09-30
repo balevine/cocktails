@@ -14,3 +14,13 @@
 * Garnish with lime wedge and marschino cherry.
 
 *Note: You can make this with vodka instead of gin, if you're so inclined.*
+
+### Gin Mule
+
+* 2 oz gin (pref. Hendricks)
+* 1/4 oz fresh lime juice
+
+---
+* Build in highball glass with lots of ice.
+* Top with ginger beer.
+* Garnish with lime wedge.
