@@ -1,6 +1,6 @@
 ## Gin-based cocktails
 
-### Cherry-lime Rickey
+### Cherry Lime Rickey
 * 2 oz gin (pref. Hendricks)
 * 1 oz fresh lime juice
 * 1/2 ounce Maraschino liqueur
