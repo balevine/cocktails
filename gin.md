@@ -2,8 +2,9 @@
 
 ### Cherry Lime Rickey
 * 2 oz gin (pref. Hendricks)
-* 1 oz fresh lime juice
-* 1/2 ounce Maraschino liqueur
+* 1/2 oz fresh lime juice
+* 1/4 oz simple syrup
+* 1/4 oz Maraschino liqueur
 * 2 dashes cherry bitters (pref. Fee Brothers)
 
 ---
