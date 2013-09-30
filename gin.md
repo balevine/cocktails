@@ -24,3 +24,18 @@
 * Build in highball glass with lots of ice.
 * Top with ginger beer.
 * Garnish with lime wedge.
+
+### Gin Gimlet
+
+* 2 oz gin (something dry such as London dry)
+* 2 oz Rose's lime juice (note this cockail is a completely different beast with fresh lime juice)
+
+---
+* Pour gin and lime into a mixing glass filled with ice cubes.
+* Shaken, not stirred.
+* Strain into a chilled cocktail glass.
+* Garnish with a lime wedge.
+
+*Note: this can also be made using vodka but why?*
+
+
