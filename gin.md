@@ -38,4 +38,14 @@
 
 *Note: this can also be made using vodka but why?*
 
+### Gin Basil Smash
 
+* 2 oz gin
+* 1 oz fresh lime juice
+* 1/2 oz simple syrup
+* 20 fresh basil leafs
+
+---
+* Smash lime juice, simple syrup, basil leafs and strain into shaker.
+* Shake with ice and gin.
+* Serve on the rocks in a short cocktail glass.
