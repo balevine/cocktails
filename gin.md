@@ -15,15 +15,17 @@
 
 *Note: You can make this with vodka instead of gin, if you're so inclined.*
 
-### Gin Mule
+### Gin Basil Smash
 
-* 2 oz gin (pref. Hendricks)
-* 1/4 oz fresh lime juice
+* 2 oz gin
+* 1 oz fresh lime juice
+* 1/2 oz simple syrup
+* 20 fresh basil leaves
 
 ---
-* Build in highball glass with lots of ice.
-* Top with ginger beer.
-* Garnish with lime wedge.
+* Smash lime juice, simple syrup, basil leaves and strain into shaker.
+* Shake with ice and gin.
+* Serve on the rocks in a short cocktail glass.
 
 ### Gin Gimlet
 
@@ -38,14 +40,12 @@
 
 *Note: this can also be made using vodka but why?*
 
-### Gin Basil Smash
+### Gin Mule
 
-* 2 oz gin
-* 1 oz fresh lime juice
-* 1/2 oz simple syrup
-* 20 fresh basil leaves
+* 2 oz gin (pref. Hendricks)
+* 1/4 oz fresh lime juice
 
 ---
-* Smash lime juice, simple syrup, basil leaves and strain into shaker.
-* Shake with ice and gin.
-* Serve on the rocks in a short cocktail glass.
+* Build in highball glass with lots of ice.
+* Top with ginger beer.
+* Garnish with lime wedge.
