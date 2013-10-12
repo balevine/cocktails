@@ -43,9 +43,9 @@
 * 2 oz gin
 * 1 oz fresh lime juice
 * 1/2 oz simple syrup
-* 20 fresh basil leafs
+* 20 fresh basil leaves
 
 ---
-* Smash lime juice, simple syrup, basil leafs and strain into shaker.
+* Smash lime juice, simple syrup, basil leaves and strain into shaker.
 * Shake with ice and gin.
 * Serve on the rocks in a short cocktail glass.
