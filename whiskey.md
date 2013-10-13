@@ -22,7 +22,7 @@
 * Garnish with large orange peel.
 
 ### Sazerac
-* 2oz rye
+* 2 oz rye
 * 1/8 oz simple syrup
 * 2 dashes Peychaud's bitters (or similar)
 
