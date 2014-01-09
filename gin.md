@@ -49,3 +49,14 @@
 * Build in highball glass with lots of ice.
 * Top with ginger beer.
 * Garnish with lime wedge.
+
+### Bohemian
+
+* 1 oz gin
+* 1 oz St. Germain
+* 3/4 oz grapefruit juice
+* 1 dash Peychaud's Bitters
+
+---
+* In a shaker add ice and all ingredients
+* Strain into martini glass
