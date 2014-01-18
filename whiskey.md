@@ -1,5 +1,17 @@
 ## Whiskey-based cocktails
 
+### Improved Whiskey Cocktail
+* 2 oz rye
+* 1/8 oz simple syrup
+* 1/8 oz Marschino liqueur
+* 1/8 oz orange liqueur (pref. Pierre Ferrand dry curacao)
+* 4 dashes aromatic bitters (pref. Dram Apothecary's Hair of the Dog)
+
+---
+* Stir with ice.
+* Serve in rocks glass with one large ice cube.
+* Garnish with large orange peel.
+* 
 ### Manhattan
 * 2 oz rye
 * 1 oz sweet vermouth
