@@ -11,7 +11,7 @@
 * Stir with ice.
 * Serve in rocks glass with one large ice cube.
 * Garnish with large orange peel.
-* 
+
 ### Manhattan
 * 2 oz rye
 * 1 oz sweet vermouth
