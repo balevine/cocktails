@@ -60,3 +60,16 @@
 ---
 * In a shaker add ice and all ingredients
 * Strain into martini glass
+
+### Aviation
+
+* 2 oz gin
+* 1/2 oz lemon juice
+* 1/2 oz maraschino liqueur
+* 1/4 oz crème de violette
+
+---
+* Add ingredients to a shaker filled with ice
+* Shake well
+* Strain into a martini glass
+* Garnish with a maraschino cherry
