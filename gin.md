@@ -1,19 +1,26 @@
-## Gin-based cocktails
+# Gin
 
 ### Cherry Lime Rickey
+
+*Note: You can make this with vodka instead of gin, if you're so inclined.*
+
+**Ingredients**
+
 * 2 oz gin (pref. Hendricks)
 * 1/2 oz fresh lime juice
 * 1/4 oz simple syrup
 * 1/4 oz Maraschino liqueur
 * 2 dashes cherry bitters (pref. Fee Brothers)
+  
+**Instructions**
+
+1. Pour all ingredients into a boston shaker (or whatever you have available)  
+2. Shake with ice.  
+3. Strain into a highball glass filled with ice  
+4. Top with club soda.  
+5. Garnish with lime wedge and marschino cherry.  
 
 ---
-* Shake with ice.
-* Serve on the rocks in a highball glass.
-* Top with club soda.
-* Garnish with lime wedge and marschino cherry.
-
-*Note: You can make this with vodka instead of gin, if you're so inclined.*
 
 ### Gin Basil Smash
 
