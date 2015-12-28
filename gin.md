@@ -38,10 +38,10 @@ This cocktail was credited to C. A. Tuck and named after the 20th Century Limite
 
 **Ingredients**
 
-1.50 oz. --	Gin
-0.75 oz. --	White Crème de Cacao
-0.75 oz. --	Lillet Blanc
-0.75 oz. --	Lemon Juice
+* 1.50 oz. --	Gin
+* 0.75 oz. --	White Crème de Cacao
+* 0.75 oz. --	Lillet Blanc
+* 0.75 oz. --	Lemon Juice
 
 **Instructions**
 
@@ -509,6 +509,7 @@ Lindsay Nader and Anne Robinson collaborated on this flowery spin on the classic
 * 4.00 ds. -- Lavender Tincture (Recipe below)
 
 **Instructions**
+
 1. Stir with ice in a mixing glass
 2. Strain into a chilled coupe
 3. Serve with a sprig of dried lavender as a garnish
@@ -517,8 +518,8 @@ Lindsay Nader and Anne Robinson collaborated on this flowery spin on the classic
 #### Lavender Tincture
 **Ingredients**
 
-2.00 l.  -- 100 Proof Vodka
-1.00 oz. -- Dried Lavender
+* 2.00 l.  -- 100 Proof Vodka
+* 1.00 oz. -- Dried Lavender
 
 **Instructions**
 
@@ -535,12 +536,12 @@ An ancestor of the Aviation Cocktail, the name references Dutch genever, not the
 
 **Ingredients**
 
-0.75 oz. --	Plum Brandy
-0.75 oz. --	Bols Genever
-0.50 oz. --	Crème Yvette
-0.50 oz. --	Lemon Juice
-0.50 oz. --	Pineapple Juice
-1.00 bs. -- Maraschino Liqueur
+* 0.75 oz. --	Plum Brandy
+* 0.75 oz. --	Bols Genever
+* 0.50 oz. --	Crème Yvette
+* 0.50 oz. --	Lemon Juice
+* 0.50 oz. --	Pineapple Juice
+* 1.00 bs. -- Maraschino Liqueur
 
 **Instructions**
 
@@ -574,9 +575,9 @@ The Gimlet may have been named after British Royal Navy Surgeon General Sir Thom
 
 **Ingredients**
 
-2.00 oz. --	Gin
-0.75 oz. --	Lime Cordial (traditionally Rose's Lime Juice)
-0.75 oz. --	Lime Juice
+* 2.00 oz. --	Gin
+* 0.75 oz. --	Lime Cordial (traditionally Rose's Lime Juice)
+* 0.75 oz. --	Lime Juice
 
 **Instructions**
 
