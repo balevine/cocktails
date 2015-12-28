@@ -22,8 +22,6 @@ New Western Dry Gin, a description coined by Aviation Gin founder Ryan“, is a 
 Aquavit production is similar to gin. Caraway, dill, fennel, citrus peel, anise, and other botanicals are macerated in high-proof neutral spirit, then distilled in a pot still. The resulting distillate is blended with a neutral grainor potato-based spirit and bottled or aged in-barrel. Aquavit produced in Denmark and Sweden is traditionally not aged, while Norwegian aquavit, produced from a potato-based spirit, is aged in former sherry casks. -- Krogstad • Linie
 
 ## Cocktails
-[#](#20th-Century) [A](#Albert-Mathieu) [B](#Berlioni) [C](#Caprice) [D](#Desert-Rose) [E](#Edgewood) [F](#Flora-Astoria) [G](#Gimlet)
-
 **Abreviation Key**  
 oz. -- Ounce  
 wh. -- Whole  
@@ -33,6 +31,7 @@ l.  -- Liter
 ts. -- Teaspoon  
 tb. -- Tablespoon  
 
+---
 
 ### 20th Century
 This cocktail was credited to C. A. Tuck and named after the 20th Century Limited luxury train that traveled between New York City and Chicago from 1902 to 1967. -- *W. J. Tarling, Café Royale Cocktail Book, 1937*
