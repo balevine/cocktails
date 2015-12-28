@@ -1,9 +1,8 @@
 # Gin
 
-## Profile
-
 Gin, an anglicism of genever, the Dutch word for juniper, is made by flavoring a neutral grain spirit with juniper and other botanicals, such as orange peel and lemon peel, coriander, angelica, orris root, cardamom, grains of paradise, cubeb berries, almonds, and cassia bark. English gin evolved from Dutch genever into three prominent styles (in chronological order): Plymouth, Old Tom and London Dry. After years of declining sales beginning in the 1960s, the release of non-juniper-dominant gins, beginning with Bombay Sapphire in 1987, has renewed consumer interest in the category.
 
+## Types & Derivatives
 **Genever**
 Genever, is produced in three styles: jonge, oude, and korenwijn. Genever distilled from grain only is labeled graanjenever. Jonge genever, introduced in the 1950s, contains more grain than malt and resembles modern vodka. Oude genever is produced by blending malt wine, an aromatic pot- and column-distilled concentrate from rye, wheat, barley, and sometimes corn with a highly rectified spirit and a botanical distillate prepared with juniper, angelica, coriander, licorice, and hops. Korenwijn (“cornwine”) is an 18thcentury style genever that is traditionally matured in used oak casks and contains between 51 and 70 percent malt wine and no more than 20 grams per liter of sugar. -- Anchor Genevieve • Bols
 
