@@ -3,24 +3,23 @@
 Gin, an anglicism of genever, the Dutch word for juniper, is made by flavoring a neutral grain spirit with juniper and other botanicals, such as orange peel and lemon peel, coriander, angelica, orris root, cardamom, grains of paradise, cubeb berries, almonds, and cassia bark. English gin evolved from Dutch genever into three prominent styles (in chronological order): Plymouth, Old Tom and London Dry. After years of declining sales beginning in the 1960s, the release of non-juniper-dominant gins, beginning with Bombay Sapphire in 1987, has renewed consumer interest in the category.
 
 ## Types & Derivatives
-**Genever**
+**Genever**  
 Genever, is produced in three styles: jonge, oude, and korenwijn. Genever distilled from grain only is labeled graanjenever. Jonge genever, introduced in the 1950s, contains more grain than malt and resembles modern vodka. Oude genever is produced by blending malt wine, an aromatic pot- and column-distilled concentrate from rye, wheat, barley, and sometimes corn with a highly rectified spirit and a botanical distillate prepared with juniper, angelica, coriander, licorice, and hops. Korenwijn (“cornwine”) is an 18thcentury style genever that is traditionally matured in used oak casks and contains between 51 and 70 percent malt wine and no more than 20 grams per liter of sugar. -- Anchor Genevieve • Bols
 
-**Plymouth Gin**
+**Plymouth Gin**  
 During the 18th and 19th centuries, the British Royal Navy stocked Plymouth gin for their crews. Coates & Co. is the only company that still produces Plymouth gin, a protected appellation. Plymouth gin is distilled with seven botanicals in England’s oldest working distillery, according to the original 18th-century recipe, and rectified with water from the local Dartmoor reservoir. -- Plymouth
 
-**Old Tom Gin**
+**Old Tom Gin**  
 is often described as the link between Dutch genever and London Dry gin; but it’s hard to imagine what the spirit tasted like, given the variety of recipes and techniques used to produce it during its heyday in the 19th century. Whether pot-distilled, as it was before the invention of the column still in the 1820s, or column-distilled, as it was when the technology became available, Old Tom gins were flavored with juniper and sweetened with sugar. A handful of modern producers offer renditions of the early style (Ransom) and the modern, more rectified style (Hayman’s). -- Hayman’s • Ransom
 
-**London Dry Gin**
+**London Dry Gin**  
 Each house, which need not reside in London, employs a unique botanical recipe and distillation technique. Some distillers add the botanicals and spirit to the kettle, while others suspend the botanicals over the boiling pot, infusing the steam before it condenses. By law, no artificial flavoring is permitted and nothing can be added after distillation except spirit of the same standard, water and .5 gram of sugar per liter. -- Beefeater • Beefeater 24 • Berkshire Mountain Distillery Greylock • Tanqueray
 
-**New Western Dry Gin**
+**New Western Dry Gin**  
 New Western Dry Gin, a description coined by Aviation Gin founder Ryan“, is a category that emerged around the turn of the 21st century, following the success of subtly flavored gins such as Bombay Sapphire. New Western producers choose a neutral, not necessarily grain-based, spirit, and tend to work with a handful of botanicals that originate from the region where the gin is distilled. Juniper must remain dominant in all dry gins to achieve definition. Gins of this style allow other botanicals to share the spotlight. -- Aviation • Hendrick’s
 
-**Aquavit**
+**Aquavit**  
 Aquavit production is similar to gin. Caraway, dill, fennel, citrus peel, anise, and other botanicals are macerated in high-proof neutral spirit, then distilled in a pot still. The resulting distillate is blended with a neutral grainor potato-based spirit and bottled or aged in-barrel. Aquavit produced in Denmark and Sweden is traditionally not aged, while Norwegian aquavit, produced from a potato-based spirit, is aged in former sherry casks. -- Krogstad • Linie
-
 
 ## Cocktails
 
