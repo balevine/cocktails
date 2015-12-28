@@ -1,6 +1,6 @@
 # Gin
 
-Gin, an anglicism of genever, the Dutch word for juniper, is made by flavoring a neutral grain spirit with juniper and other botanicals, such as orange peel and lemon peel, coriander, angelica, orris root, cardamom, grains of paradise, cubeb berries, almonds, and cassia bark. English gin evolved from Dutch genever into three prominent styles (in chronological order): Plymouth, Old Tom and London Dry. After years of declining sales beginning in the 1960s, the release of non-juniper-dominant gins, beginning with Bombay Sapphire in 1987, has renewed consumer interest in the category.
+Gin--an anglicism of genever, the Dutch word for juniper--is made by flavoring a neutral grain spirit with juniper and other botanicals, such as orange peel and lemon peel, coriander, angelica, orris root, cardamom, grains of paradise, cubeb berries, almonds, and cassia bark. English gin evolved from Dutch genever into three prominent styles (in chronological order): Plymouth, Old Tom and London Dry. After years of declining sales beginning in the 1960s, the release of non-juniper-dominant gins, beginning with Bombay Sapphire in 1987, has renewed consumer interest in the category.
 
 ## Types & Derivatives
 **Genever**  
@@ -16,7 +16,7 @@ is often described as the link between Dutch genever and London Dry gin; but it�
 Each house, which need not reside in London, employs a unique botanical recipe and distillation technique. Some distillers add the botanicals and spirit to the kettle, while others suspend the botanicals over the boiling pot, infusing the steam before it condenses. By law, no artificial flavoring is permitted and nothing can be added after distillation except spirit of the same standard, water and .5 gram of sugar per liter. -- Beefeater • Beefeater 24 • Berkshire Mountain Distillery Greylock • Tanqueray
 
 **New Western Dry Gin**  
-New Western Dry Gin, a description coined by Aviation Gin founder Ryan“, is a category that emerged around the turn of the 21st century, following the success of subtly flavored gins such as Bombay Sapphire. New Western producers choose a neutral, not necessarily grain-based, spirit, and tend to work with a handful of botanicals that originate from the region where the gin is distilled. Juniper must remain dominant in all dry gins to achieve definition. Gins of this style allow other botanicals to share the spotlight. -- Aviation • Hendrick’s
+New Western Dry Gin, a description coined by Aviation Gin founder Ryan, is a category that emerged around the turn of the 21st century, following the success of subtly flavored gins such as Bombay Sapphire. New Western producers choose a neutral, not necessarily grain-based, spirit, and tend to work with a handful of botanicals that originate from the region where the gin is distilled. Juniper must remain dominant in all dry gins to achieve definition. Gins of this style allow other botanicals to share the spotlight. -- Aviation • Hendrick’s
 
 **Aquavit**  
 Aquavit production is similar to gin. Caraway, dill, fennel, citrus peel, anise, and other botanicals are macerated in high-proof neutral spirit, then distilled in a pot still. The resulting distillate is blended with a neutral grainor potato-based spirit and bottled or aged in-barrel. Aquavit produced in Denmark and Sweden is traditionally not aged, while Norwegian aquavit, produced from a potato-based spirit, is aged in former sherry casks. -- Krogstad • Linie
@@ -644,9 +644,9 @@ This drink is based on the Rosy Deacon recipe in Jones’s Complete Bar Guide. O
 
 **Ingredients**
 
-1.50 oz. --	Gin
-1.00 oz. --	Grapefruit Juice
-0.75 oz. --	Sloe Gin
+* 1.50 oz. --	Gin
+* 1.00 oz. --	Grapefruit Juice
+* 0.75 oz. --	Sloe Gin
 
 **Instructions**
 
