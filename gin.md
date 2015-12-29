@@ -110,6 +110,8 @@ An Astoria cocktail variation created by Jim Meehan at Gramercy Tavern in 2005
 ### Aviation
 It’s thought that this azure-colored drink, created during the dawn of commercial aviation, may have been named after the ships that flew above the clouds. -- *Hugo Ensslin, Recipes for Mixed Drinks, 1916*
 
+**Ingredients**
+
 * 2.00 oz. -- Beefeater Gin
 * 0.75 oz. -- Lemon Juice
 * 0.50 oz. -- Maraschino Liqueur
@@ -746,10 +748,14 @@ To commemorate the 400th anniversary of Henry Hudson’s discovery of Manhattan,
 ### Kin Kan
 “Kin kan” is Japanese for kumquat, the small, aromatic citrus fruit that is cultivated throughout Southeast Asia from autumn until winter. -- *John Deragon, Spring 2008*
 
+**Ingredients**
+
 * 1.50 oz. --	Gin
-* 1.00 oz. --	Kumquat Syrup (Recipe below)
+* 1.00 oz. --	Kumquat Syrup (recipe below)
 * 0.75 oz. --	Lemon Juice
 * 0.10 oz. -- Elderflower Liqueur (To rinse the coupe)
+
+**Instructions**
 
 1. Shake with ice
 2. Strain into a chilled, Elderflower Liqueur-rinsed coupe
@@ -777,6 +783,8 @@ To commemorate the 400th anniversary of Henry Hudson’s discovery of Manhattan,
 ### La Louche
 
 “Louche” means “questionable, mischievous behavior.” Consider this cocktail as its inspiration. -- *Charlotte Voisey, Winter 2007*
+
+**Ingredients**
 
 * 1.50 oz. -- Gin
 * 1.00 oz. -- Lillet Rouge
@@ -1044,10 +1052,10 @@ Linie aquavit is shipped from Norway, across the equator and back again in old s
 
 **Ingredients**
 
-2.00 oz. --	Linie Aquavit
-0.75 oz. --	Grand Marnier
-0.50 oz. --	Amaro
-0.10 oz. -- Fernet Branca (to rinse the coupe)
+* 2.00 oz. --	Linie Aquavit
+* 0.75 oz. --	Grand Marnier
+* 0.50 oz. --	Amaro
+* 0.10 oz. -- Fernet Branca (to rinse the coupe)
 
 **Instructions**
 
@@ -1551,11 +1559,11 @@ The tuxedo’s roots can be traced back to the Tuxedo Park Club, in New York’s
 
 **Ingredients**
 
-2.00 oz. --	Gin
-1.50 oz. --	Dry Vermouth
-0.25 oz. --	Maraschino Liqueur
-2.00 ds. --	Orange Bitters
-0.10 oz. -- Absinthe (to rinse the coupe)
+* 2.00 oz. --	Gin
+* 1.50 oz. --	Dry Vermouth
+* 0.25 oz. --	Maraschino Liqueur
+* 2.00 ds. --	Orange Bitters
+* 0.10 oz. -- Absinthe (to rinse the coupe)
 
 **Instructions**
 
