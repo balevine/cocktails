@@ -24,3 +24,25 @@
 * Blend until mixture becomes smooth
 * Serve in a hurricane glass
 * Garnish with a slice of strawberry on the side
+
+### Tom and Jerry
+
+* 1 dozen extra large eggs
+* 1.5 t. cream of tartar
+* 2 pounds powdered sugar
+* Maple extract or imitation maple extract
+* 1 t. lemon juice
+* Brandy
+* Ronrico or other dark rum
+* Boiling water
+* Nutmeg
+* Cinnamon
+
+---
+* Separate eggs. 
+* Add cream of tartar to whites and beat until very stiff.
+* In a separate, large bowl, add capful of maple extract, lemon juice, and powdered sugar to the egg yolks, and beat.
+* Fold egg white mixture into the yolk mixture.
+* Chill mixture for at least 30 minutes.
+* Place 1/2 c. of batter in the bottom of each mug. Add 3/4 ounce of each liquor to each mug, then fill with boiling water.
+* Top each mug with a spoonful of batter, then garnish with freshly-ground nutmeg and cinnamon.
