@@ -73,3 +73,17 @@
 * Shake well
 * Strain into a martini glass
 * Garnish with a maraschino cherry
+
+### Clover Club
+
+* 3/4 oz Bombay Saphire
+* 3/4 oz dry vermouth
+* 3/4 oz lemon juice
+* 3/4 oz raspberry syrup
+* 1/4 oz egg white
+
+---
+* Add ingredients to a shaker
+* Add ice
+* Vigorous shake
+* Double strain into cocktail glass
