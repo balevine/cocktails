@@ -53,7 +53,7 @@
 * 1 cup ice
 * 4 ounces pineapple juice
 * 1 oz coconut cream (they have it at Trader Joe's)
-* 2 ounces run 
+* 2 ounces rum
 * 2 ounces macadamia nut liqueur (can be found at BevMo)
 
 __
