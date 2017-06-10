@@ -46,3 +46,16 @@
 * Chill mixture for at least 30 minutes.
 * Place 1/2 c. of batter in the bottom of each mug. Add 3/4 ounce of each liquor to each mug, then fill with boiling water.
 * Top each mug with a spoonful of batter, then garnish with freshly-ground nutmeg and cinnamon.
+
+### Chi Chis
+
+* Blender
+* 1 cup ice
+* 4 ounces pineapple juice
+* 1 oz coconut cream (they have it at Trader Joe's)
+* 2 ounces run 
+* 2 ounces macadamia nut liqueur (can be found at BevMo)
+
+__
+
+Blend it. Bonus points for tiny umbrellas :tropical_drink:
