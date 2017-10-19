@@ -73,3 +73,16 @@
 * Shake well
 * Strain into a martini glass
 * Garnish with a maraschino cherry
+
+### Last Word
+
+* 1 oz gin
+* 1 oz green chartreuse 
+* 1 oz maraschino liqueur
+* 1 oz lime juice 
+
+---
+* Add ingredients to a shaker filled with ice
+* Shake well
+* Strain into a martini glass
+* Garnish with a maraschino cherry
