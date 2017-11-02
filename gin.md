@@ -73,3 +73,19 @@
 * Shake well
 * Strain into a martini glass
 * Garnish with a maraschino cherry
+
+
+### Grasscutter
+
+* 1 oz Gin (pref. Saint George Terroir)
+* 1 oz Shochu (pref. Saint George)
+* 1/4 oz lemon juice
+* 1/4 oz pineapple juice
+* dash ginger syrup
+* dash vanilla syrup
+* dash orgeat
+
+---
+* Shake with ice
+* Strain into a chilled coupe
+* Garnish with a few dashes of matcha powder
