@@ -1,5 +1,15 @@
 ## Whiskey-based cocktails
 
+### Boulevardier
+* 1.5 oz rye
+* 1 oz Campari
+* 1 oz sweet vermouth
+
+---
+* Stir with ice.
+* Serve in rocks glass with one large ice cube.
+* Garnish with large orange peel.
+
 ### Improved Whiskey Cocktail
 * 2 oz rye
 * 1/8 oz simple syrup
