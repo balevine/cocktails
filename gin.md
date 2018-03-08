@@ -671,6 +671,26 @@ Inspired by the tree blossoms that fill the streets with their heady perfume in 
 
 ---
 
+### Grasscutter
+
+**Ingredients**
+
+* 1 oz Gin (pref. Saint George Terroir)
+* 1 oz Shochu (pref. Saint George)
+* 1/4 oz lemon juice
+* 1/4 oz pineapple juice
+* dash ginger syrup
+* dash vanilla syrup
+* dash orgeat
+
+**Instructions**
+
+1. Shake with ice
+2. Strain into a chilled coupe
+3. Garnish with a few dashes of matcha powder
+
+---
+
 ### Green Deacon
 This drink is based on the Rosy Deacon recipe in Jones’s Complete Bar Guide. One night, Jim served it to a friend, who suggested adding Absinthe. -- *Jim Meehan, Fall 2008*
 
