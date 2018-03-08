@@ -53,3 +53,16 @@
 * Stir ingredients with ice.
 * Serve in rinsed glass with one large ice cube.
 * Garnish with large orange peel.
+
+### Blood & Sand
+* 3/4 ounce Scotch whiskey
+* 3/4 ounce Cherry Herring
+* 3/4 ounce sweet vermouth (pref: Lillet Rouge)
+* 3/4 ounce fresh orange juice
+* Orange peel for garnish
+
+---
+* Shake with ice.
+* Strain into a chilled cocktail glass.
+* Garnish with an orange peel.
+
