@@ -48,6 +48,7 @@
 * Top each mug with a spoonful of batter, then garnish with freshly-ground nutmeg and cinnamon.
 
 ### Painkiller
+
 * 2 oz Dark rum (recommended: Pusser's)
 * 4 oz Pineapple juice
 * 1 oz Orange juice
@@ -55,8 +56,21 @@
 * Nutmeg
 * Pineapple wedge. (optional)
 * Cruzan Blackstrap Rum
+
 ---
 * Add all of the ingredients into a shaker and fill with ice.
 * Shake vigorously and strain into a hurricane glass or snifter filled with crushed ice.
 * Garnish with freshly grated nutmeg and a pineapple wedge.
 * Add a small float of Cruzan's Blackstrap rum to the top.
+
+### Chi Chis
+
+* Blender
+* 1 cup ice
+* 4 ounces pineapple juice
+* 1 oz coconut cream (they have it at Trader Joe's)
+* 2 ounces rum
+* 2 ounces macadamia nut liqueur (can be found at BevMo)
+
+__
+Blend it. Bonus points for tiny umbrellas :tropical_drink:
