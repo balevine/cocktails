@@ -73,5 +73,5 @@
 * 2 ounces rum
 * 2 ounces macadamia nut liqueur (can be found at BevMo)
 
-__
-Blend it. Bonus points for tiny umbrellas :tropical_drink:
+---
+* Blend it. Bonus points for tiny umbrellas :tropical_drink:
