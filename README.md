@@ -9,5 +9,6 @@ This repository is a place for me to store cocktail recipes that I use and/or cr
 * [Gin](gin.md)
 * [Rum](rum.md)
 * [Whiskey](whiskey.md)
+* [Cachaça](cachaca.md)
 
 Pull Requests are welcome!
