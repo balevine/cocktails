@@ -1,4 +1,4 @@
-# Gin
+## Gin
 
 Gin--an anglicism of genever, the Dutch word for juniper--is made by flavoring a neutral grain spirit with juniper and other botanicals, such as orange peel and lemon peel, coriander, angelica, orris root, cardamom, grains of paradise, cubeb berries, almonds, and cassia bark. English gin evolved from Dutch genever into three prominent styles (in chronological order): Plymouth, Old Tom and London Dry. After years of declining sales beginning in the 1960s, the release of non-juniper-dominant gins, beginning with Bombay Sapphire in 1987, has renewed consumer interest in the category.
 
