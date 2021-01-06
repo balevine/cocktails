@@ -8,6 +8,7 @@
 * 2 dashes aromatic bitters
 
 ---
+
 * Shake with ice.
 * Serve up in a coupe glass.
 * Garnish with lemon peel.
@@ -20,6 +21,7 @@
 * 1 whole egg (look, you got this far... just do it)
 
 ---
+
 * Add ingredients to shaker and shake well without ice
 * Add ice to shaker and shake well
 * Double strain and serve in rocks glass
@@ -31,6 +33,7 @@
 * 3/4 oz fresh lemon juice
 
 ---
+
 * Shake with ice.
 * Serve up in a coupe glass.
 * Garnish with lemon peel.

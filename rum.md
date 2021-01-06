@@ -6,6 +6,7 @@
 * 1 dash Angustora bitters
 
 ---
+
 * Build in highball glass with lots of ice.
 * Garnish with lime wedge.
 
@@ -19,6 +20,7 @@
 * Ice baby (preferably crushed)
 
 ---
+
 * Remove skin from mango and slice into 3cm cubes
 * Remove peel from banana
 * Add all ingredients (mango cubes, banana, spirits, lime juice, sugar & ice) to a blender
@@ -40,6 +42,7 @@
 * Cinnamon
 
 ---
+
 * Separate eggs.
 * Add cream of tartar to whites and beat until very stiff.
 * In a separate, large bowl, add capful of maple extract, lemon juice, and powdered sugar to the egg yolks, and beat.
@@ -59,6 +62,7 @@
 * Cruzan Blackstrap Rum
 
 ---
+
 * Add all of the ingredients into a shaker and fill with ice.
 * Shake vigorously and strain into a hurricane glass or snifter filled with crushed ice.
 * Garnish with freshly grated nutmeg and a pineapple wedge.

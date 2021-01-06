@@ -6,6 +6,7 @@
 * 1 oz sweet vermouth
 
 ---
+
 * Stir with ice.
 * Serve in rocks glass with one large ice cube.
 * Garnish with large orange peel.
@@ -18,6 +19,7 @@
 * 4 dashes aromatic bitters (pref. Dram Apothecary's Hair of the Dog)
 
 ---
+
 * Stir with ice.
 * Serve in rocks glass with one large ice cube.
 * Garnish with large orange peel.
@@ -28,6 +30,7 @@
 * 2 dashes aromatic bitters (pref. Fee Brothers Old Fashioned Aromatic)
 
 ---
+
 * Stir with ice.
 * Serve up in coupe glass.
 * Garnish with orange peel.
@@ -39,6 +42,7 @@
 * 1 dash orange bitters (pref. Regan's No. 6)
 
 ---
+
 * Stir with ice.
 * Serve in rocks glass with one large ice cube.
 * Garnish with large orange peel.
@@ -49,6 +53,7 @@
 * 2 dashes Peychaud's bitters (or similar)
 
 ---
+
 * Rinse rocks glass with anise liquor (I prefer Pernod).
 * Stir ingredients with ice.
 * Serve in rinsed glass with one large ice cube.
@@ -62,6 +67,7 @@
 * Orange peel for garnish
 
 ---
+
 * Shake with ice.
 * Strain into a chilled cocktail glass.
 * Garnish with an orange peel.
