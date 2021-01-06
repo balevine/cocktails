@@ -1,4 +1,4 @@
 [build]
 	publish = "build"
-	command = "mkdir -p build && pandoc *.md -s -o build/index.html --metadata title=\"Balevine's Cocktails\" --toc"
+	command = "mkdir -p build && pandoc cognac.md gin.md rum.md whiskey.md -s -o build/index.html --metadata title=\"Balevine's Cocktails\" --toc"
 
